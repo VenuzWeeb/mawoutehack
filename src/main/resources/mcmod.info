@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Chulohack",
+  "name": "ChuloHack",
+  "description": "maowoute the king",
+  "version": "1.0.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["mamavegetta","Mawoute","Venuz"],
+  "credits": "nadie pq somos pro",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
